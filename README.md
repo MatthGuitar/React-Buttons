@@ -1,3 +1,7 @@
+# About
+
+This project is a solution to Button Component Challenge from devchallenges.io
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
